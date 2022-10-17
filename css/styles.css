@@ -80,5 +80,17 @@ body ul {
   font-weight: 300;
   margin-bottom: 1rem;
 }
+.gallery-card-btn {
+  padding: 0.6rem 2rem;
+  border: 2px solid #FFF;
+  color: #FFF;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.gallery-card-btn:hover {
+  background-color: #FFF;
+  color: #000;
+}
 
 /*# sourceMappingURL=styles.css.map */
