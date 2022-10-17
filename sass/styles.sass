@@ -45,3 +45,21 @@ body
             a
                 &:hover
                     color: variables.$secondary-color
+                
+    &-social-media // O mesmo que .header-social-media
+        
+        ul
+            // reaproveitamento de código com a utilização de mixins
+            @include mixins.flex-center
+            height: 100%
+
+            li
+                margin: 0 1rem
+
+                a
+                    &:hover
+                        color: variables.$primary-color
+
+.gallery
+    @include mixins.flex-center
+    @include mixins.container
