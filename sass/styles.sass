@@ -63,3 +63,16 @@ body
 .gallery
     @include mixins.flex-center
     @include mixins.container
+    flex-wrap: wrap
+    justify-content: space-between
+    padding: 0
+
+    &-card // .gallery-card
+        width: 31%
+        height: 400px
+        margin-bottom: 4%
+
+        &-title gallery-card-tittle
+            font-size: 2rem
+            font-weight: 300
+            margin-bottom: 1rem
