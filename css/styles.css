@@ -74,8 +74,9 @@ body ul {
   width: 31%;
   height: 400px;
   margin-bottom: 4%;
+  padding: 0.5rem;
 }
-.gallery-card-title gallery-card-tittle {
+.gallery-card-title {
   font-size: 2rem;
   font-weight: 300;
   margin-bottom: 1rem;
@@ -91,6 +92,78 @@ body ul {
 .gallery-card-btn:hover {
   background-color: #FFF;
   color: #000;
+}
+.gallery #card-1 {
+  background-image: url("../img/animais.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-2 {
+  background-image: url("../img/arquitetura.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-3 {
+  background-image: url("../img/cidade.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-4 {
+  background-image: url("../img/decoracao.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-5 {
+  background-image: url("../img/esportes.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-6 {
+  background-image: url("../img/natureza.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-7 {
+  background-image: url("../img/paisagem.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-8 {
+  background-image: url("../img/pessoas.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
+}
+.gallery #card-9 {
+  background-image: url("../img/refeicoes.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: grayscale(100%);
+  transition: 0.6s;
 }
 
 /*# sourceMappingURL=styles.css.map */
