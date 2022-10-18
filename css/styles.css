@@ -105,6 +105,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/animais.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-2 {
   background-image: url("../img/arquitetura.jpg");
@@ -118,6 +119,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/arquitetura.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-3 {
   background-image: url("../img/cidade.jpg");
@@ -131,6 +133,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cidade.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-4 {
   background-image: url("../img/decoracao.jpg");
@@ -144,6 +147,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/decoracao.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-5 {
   background-image: url("../img/esportes.jpg");
@@ -157,6 +161,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/esportes.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-6 {
   background-image: url("../img/natureza.jpg");
@@ -170,6 +175,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-7 {
   background-image: url("../img/paisagem.jpg");
@@ -183,6 +189,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paisagem.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-8 {
   background-image: url("../img/pessoas.jpg");
@@ -196,6 +203,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pessoas.jpg");
+  letter-spacing: 1px;
 }
 .gallery #card-9 {
   background-image: url("../img/refeicoes.jpg");
@@ -209,6 +217,7 @@ body ul {
   background-size: 110%;
   filter: grayscale(0%);
   background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.jpg");
+  letter-spacing: 1px;
 }
 
 /*# sourceMappingURL=styles.css.map */
