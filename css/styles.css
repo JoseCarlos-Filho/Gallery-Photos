@@ -25,6 +25,11 @@ body ul {
   padding: 1.5rem 0;
   margin: 0 auto;
 }
+@media (max-width: 425px) {
+  .header {
+    padding: 1.1rem;
+  }
+}
 .header-brand {
   color: #FFF;
   font-size: 3rem;
@@ -34,6 +39,11 @@ body ul {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+@media (max-width: 425px) {
+  .header-navbar ul {
+    display: none;
+  }
 }
 .header-navbar li {
   margin: 0 1rem;
@@ -51,6 +61,11 @@ body ul {
   align-items: center;
   justify-content: center;
   height: 100%;
+}
+@media (max-width: 425px) {
+  .header-social-media ul {
+    display: none;
+  }
 }
 .header-social-media ul li {
   margin: 0 1rem;

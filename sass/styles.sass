@@ -24,6 +24,9 @@ body
     justify-content: space-between
     @include mixins.container
 
+    @include mixins.mobile
+        padding: 1.1rem
+
     &-brand // traduzido para o css como .header-brand
         color: variables.$primary-color
         font-size: 3rem
@@ -33,6 +36,9 @@ body
         ul
             height: 100%
             @include mixins.flex-center
+
+            @include mixins.mobile
+                display: none
 
         li
             margin: 0 1rem
@@ -52,6 +58,9 @@ body
             // reaproveitamento de código com a utilização de mixins
             @include mixins.flex-center
             height: 100%
+
+            @include mixins.mobile
+                display: none
 
             li
                 margin: 0 1rem
