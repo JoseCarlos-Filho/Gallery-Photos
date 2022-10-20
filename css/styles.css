@@ -75,6 +75,11 @@ body ul {
   height: 400px;
   margin-bottom: 4%;
   padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #FFF;
 }
 .gallery-card-title {
   font-size: 2rem;
