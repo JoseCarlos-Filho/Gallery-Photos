@@ -65,6 +65,7 @@ body ul {
 @media (max-width: 425px) {
   .header-social-media ul {
     display: none;
+    letter-spacing: none;
   }
 }
 .header-social-media ul li {
