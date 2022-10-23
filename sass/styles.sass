@@ -61,7 +61,6 @@ body
 
             @include mixins.mobile
                 display: none
-                letter-spacing: none
 
             li
                 margin: 0 1rem
@@ -77,6 +76,9 @@ body
     justify-content: space-between
     padding: 0
 
+    @include mixins.mobile
+        flex-direction: column
+
     &-card // .gallery-card
         width: 31%
         height: 400px
@@ -85,6 +87,10 @@ body
         @include mixins.flex-center
         flex-direction: column
         color: variables.$primary-color
+
+        @include mixins.mobile
+            width: 90%
+            margin-bottom: 6%
 
         &-title // .gallery-card-tittle
             font-size: 2rem
