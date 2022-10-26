@@ -17,7 +17,12 @@
 
 ### Apresentação
 
+Galeria de fotos e imagens diversos, landing page com links de navegação e cards de fotos.
+Aplicação para ser usada em diversas áreas.
+
 ### Objetivo
+
+Aprender utilizar os conceitos e propriedades basicas do SASS. Acesse o menu ### O que aprendeu.
 
 ### Deploy
 
