@@ -13,7 +13,7 @@
     - [Deploy](#deploy)
     - [Techs utilizadas](#techs-utilizadas)
     - [O que aprendeu](#o-que-aprendeu)
-    - [Status](#status)
+    - [Status do projeto](#status-do-projeto)
 
 ### Apresentação
 
@@ -22,14 +22,20 @@ Aplicação para ser usada em diversas áreas.
 
 ### Objetivo
 
-Aprender utilizar os conceitos e propriedades basicas do SASS. Acesse o menu ### O que aprendeu.
+Aprender utilizar os conceitos e propriedades basicas do SASS. Pra saber mais Acesse o menu ### O que aprendeu.
 
 ### Deploy
 
-<!-- - Link : <a href="https://jose-carlos-rodrigues-dashboard.netlify.app/" target="_blank">Dashboard José Carlos</a> -->
+- Link : <a href="https://jose-carlos-gallery-photos.netlify.app/" target="_blank">Gallery Photos</a>
 
 ### Techs utilizadas
 
+<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+
 ### O que aprendeu
 
-### Status
+### Status do projeto
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
