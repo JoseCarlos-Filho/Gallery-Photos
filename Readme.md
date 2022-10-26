@@ -36,6 +36,19 @@ Aprender utilizar os conceitos e propriedades basicas do SASS. Pra saber mais Ac
 
 ### O que aprendeu
 
+- #### Váriaveis
+
+  Pense nas variáveis ​​como uma forma de armazenar informações que você deseja reutilizar em toda a sua folha de estilo. Você pode armazenar coisas como cores, pilhas de fontes ou qualquer valor CSS que você acha que deseja reutilizar. Sass usa o $ símbolo para tornar algo uma variável. Aqui está um exemplo:
+
+  ```sass
+    $font-stack: Helvetica, sans-serif
+    $primary-color: #333
+
+    body
+      font: 100% $font-stack
+      color: $primary-color
+  ```
+
 ### Status do projeto
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
